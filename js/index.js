@@ -97,7 +97,7 @@ let dashboardDivTemplate = (listsElement) => {
   return `<div id="dashboard" class="wrapper">
 <h1>Dashboard</h1>
 <div class="new-list">
-  <button id="createNewList" class="center">Create new list</button>
+  <button id="createNewList" class="center">Create a new list</button>
 </div>
 </div>
 ${listsElement.innerHTML}
